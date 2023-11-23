@@ -29,7 +29,7 @@
                   http://myserver:9099
                 </sonar.host.url>
                 <sonar.token>
-                      sqp_4f7a100a426d063382e29249eece850a1133eee0
+                      sqp_178738ac64f5bb376aae0c001c4792eb92524171 
                 </sonar.token>
                 <sonar.login>admin</sonar.login>
                 <sonar.password>Diet@123</sonar.password>
@@ -41,8 +41,9 @@
    <dependency>
     <groupId>org.sonarsource.scanner.maven</groupId>
     <artifactId>sonar-maven-plugin</artifactId>
-    <version>3.9.1.2184</version>
+    <version>3.2</version>
 </dependency>
+
 
     <dependency>
       <groupId>junit</groupId>
